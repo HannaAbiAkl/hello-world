@@ -1,0 +1,5 @@
+//this is a github Hello function
+function GitHello()
+{
+  return "Hello from GitHub!";
+}
